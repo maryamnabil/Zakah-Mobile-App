@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الزكاة</string>
+    <string name="name">الإسم</string>
+    <string name="username">الرقم المميز</string>
+    <string name="password">كلمة المرور</string>
+    <string name="phone">رقم الجوال</string>
+    <string name="email"> البريد الإلكتروني</string>
+    <string name="Login">تسجيل الدخول</string>
+    <string name="Settings">الإعدادات</string>
+    <string name="Arabic">العربية</string>
+    <string name="English">الإنجليزية</string>
+    <string name="Validate">تحقق</string>
+    <string name="title_activity_home">الصفحة الرئيسية</string>
+    <string name="title_home">الصفحة الرئيسية</string>
+    <string name="title_contactus">تواصل معنا</string>
+    <string name="title_profile">الملف الشخصي</string>
+    <string name="Notifications"> تنبيهات</string>
+    <string name="not1">يوجد لديك إقرارات زكوية مستحقة الدفع</string>
+    <string name="not2">يوجد لديك إقرارات لضريبة القيمة المضافة متأخرة لم يتم تقديمها</string>
+    <string name="not3">تم إصدار غرامة مالية لتأخير التسجيل</string>
+    <string name="totalOfUnpaidBills">مجموع الفواتير غير مسددة:</string>
+    <string name="RS"> ر.س </string>
+    <string name="PaidRS"> تم تسديد 4000 ر.س خلال السنة المالية الحالية</string>
+    <string name="MyBills">فواتيري</string>
+    <string name="MyCertificates">شهاداتي</string>
+    <string name="ApprovalOfZakat">إقرار زكاة </string>
+    <string name="editProfile">تعديل الملف الشخصي</string>
+    <string name="Save"> حفظ</string>
+    <string name="comment">تعليق</string>
+    <string name="send">إرسال</string>
+    <string name="file"> ارفع ملف</string>
+    <string name="zakahType">نوع الزكاة:</string>
+    <string name="estimatedZakah">زكاة تقديرية</string>
+    <string name="postpaidNumber">رقم فاتورة السداد:</string>
+    <string name="dueAmount">المبلغ المستحق:</string>
+    <string name="dueDate"> تاريخ الإستحقاق:</string>
+    <string name="paid">المدفوعة</string>
+    <string name="all">الجميع</string>
+    <string name="partiallypaid">مدفوع جزئيا</string>
+    <string name="Unpaid">غير المدفوعة</string>
+    <string name="cert1">شهادة تسجيل في ضريبة القيمة المضافة</string>
+    <string name="cert2">شهادة تسجيل</string>
+    <string name="summaryOfZakat"> ملخص احتساب الزكاة</string>
+    <string name="salesDeatils"> تفاصيل المبيعات</string>
+    <string name="bill"> الفاتورة</string>
+    <string name="lateRepr">إقرارات متأخرة</string>
+    <string name="earlyRepr">إقرارات متقدمة</string>
+    <string name="Gender">النوع</string>
+    <string name="consumeWebService">consume Web Service</string>
+    <string name="scanQRcode">Scan QR Code</string>
+    <string name="maps">Map</string>
+    <string name="camera">استخدم الكاميرا</string>
+    <string name="multiple">أكثر من صورة</string>
+    <string name="role">دورك </string>
+    <string name="admin">أدمن </string>
+    <string name="user">مستخدم </string>
+    <string name="target_language">اللغة المستهدفة</string>
+    <string name="visitor">زائر</string>
+    <string name="assistant_api">LACTacomY9pFStqMv2EnjgDk-h1JqZVHEixnE79jEngM</string>
+    <string name="assistant_url">https://api.eu-gb.assistant.watson.cloud.ibm.com/instances/8bc94a83-0952-4ad4-82af-1601150de803</string>
+    <string name="assistant_pass">LACTacomY9pFStqMv2EnjgDk-h1JqZVHEixnE79jEngM-68642657-1cb1-446b-a9e6-1aa4ad897bfc</string>
+
+
+
+
+</resources>

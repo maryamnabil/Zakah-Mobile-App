@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="custom_string_array">
+        <item>Maryam 1</item>
+        <item>Maryam 2</item>
+        <item>Maryam 3</item>
+        <item>Maryam 4</item>
+        <item>Maryam 5</item>
+        <item>Maryam 6</item>
+        <item>Maryam 7</item>
+        <item>Maryam 8</item>
+        <item>Maryam 9</item>
+        <item>Maryam 10</item>
+        <item>Maryam 11</item>
+        <item>Maryam 12</item>
+        <item>Maryam 13</item>
+        <item>Maryam 14</item>
+    </string-array>
+</resources>

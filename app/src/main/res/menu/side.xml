@@ -1,0 +1,251 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" >
+    <group android:id="@+id/group1">
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_menu_manage"
+        android:title="@string/Settings"
+        />
+    </group>
+    <group android:id="@+id/group2">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/house_gray"
+        android:title="@string/title_home"
+        />
+    </group>
+    <group android:id="@+id/group3">
+
+    <item
+        android:id="@+id/nav_notification"
+        android:icon="@drawable/ic_notifications_active_black_24dp"
+        android:title="@string/Notifications"
+        />
+    </group>
+    <group android:id="@+id/group4">
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="@string/title_profile"
+            />
+    </group>
+    <group android:id="@+id/group5">
+
+    <item
+            android:id="@+id/nav_myBills"
+            android:icon="@drawable/document"
+            android:title="@string/MyBills"
+            />
+    </group>
+    <group android:id="@+id/group6">
+
+    <item
+            android:id="@+id/nav_mycertificates"
+            android:icon="@drawable/certificate_shape"
+            android:title="@string/MyCertificates"
+            />
+    </group>
+    <group android:id="@+id/group7">
+
+    <item
+            android:id="@+id/nav_approval"
+            android:icon="@drawable/letter_gray"
+            android:title="@string/ApprovalOfZakat"
+            />
+    </group>
+    <group android:id="@+id/group8">
+
+    <item
+        android:id="@+id/nav_consume"
+        android:icon="@drawable/ic_menu_slideshow"
+        android:title="@string/consumeWebService"
+        />
+    </group>
+    <group android:id="@+id/group9">
+
+    <item
+            android:id="@+id/nav_scan"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/scanQRcode"
+            />
+    </group>
+    <group android:id="@+id/group10">
+
+    <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_add_location_black_24dp"
+            android:title="@string/maps"
+            />
+    </group>
+    <group android:id="@+id/group11">
+
+        <item
+            android:id="@+id/nav_adapter"
+            android:icon="@drawable/ic_live_help_black_24dp"
+            android:title="Adapter"
+            />
+    </group>
+    <group android:id="@+id/group12">
+
+    <item
+            android:id="@+id/nav_feed"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Feed"
+            />
+    </group>
+    <group android:id="@+id/group13">
+
+    <item
+            android:id="@+id/nav_bookstore"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Bookstore Database"
+            />
+    </group>
+    <group android:id="@+id/group14">
+
+    <item
+            android:id="@+id/nav_capatcha"
+            android:icon="@drawable/ic_live_help_black_24dp"
+            android:title="Capatcha"
+            />
+    </group>
+    <group android:id="@+id/group15">
+
+        <item
+            android:id="@+id/nav_date"
+            android:icon="@drawable/ic_access_time_black_24dp"
+            android:title="Hijri Date"
+            />
+    </group>
+    <group android:id="@+id/group16">
+
+    <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_camera_alt_black_24dp"
+            android:title="Camera"
+            />
+    </group>
+    <group android:id="@+id/group17">
+
+    <item
+            android:id="@+id/nav_chart"
+            android:icon="@drawable/ic_pie_chart_black_24dp"
+            android:title="Chart"
+            />
+    </group>
+    <group android:id="@+id/group18">
+
+    <item
+            android:id="@+id/nav_paging"
+            android:icon="@drawable/ic_library_books_black_24dp"
+            android:title="Dynamic Paging"
+            />
+    </group>
+    <group android:id="@+id/group19">
+
+    <item
+            android:id="@+id/nav_expand"
+            android:icon="@drawable/ic_library_books_black_24dp"
+            android:title="Expand Collapse"
+            />
+    </group>
+    <group android:id="@+id/group20">
+
+    <item
+            android:id="@+id/slideshow"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Slide Show"
+            />
+    </group>
+    <group android:id="@+id/group21">
+
+    <item
+            android:id="@+id/twitter"
+            android:icon="@drawable/ic_person_outline_black_24dp"
+            android:title="Twitter"
+            />
+    </group>
+    <group android:id="@+id/group22">
+
+    <item
+            android:id="@+id/bot"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Chat Bot"
+            />
+    </group>
+    <group android:id="@+id/group23">
+
+    <item
+            android:id="@+id/spinner"
+            android:icon="@drawable/ic_camera_alt_black_24dp"
+            android:title="Custom Spinner"
+            />
+    </group>
+    <group android:id="@+id/group24">
+
+    <item
+            android:id="@+id/signature"
+            android:icon="@drawable/ic_live_help_black_24dp"
+            android:title="Signature"
+            />
+    </group>
+    <group android:id="@+id/group25">
+
+    <item
+            android:id="@+id/share"
+            android:icon="@drawable/ic_live_help_black_24dp"
+            android:title="Share link"
+            />
+    </group>
+    <group android:id="@+id/group26">
+
+    <item
+            android:id="@+id/dialog"
+            android:icon="@drawable/ic_live_help_black_24dp"
+            android:title="Pop Up"
+            />
+    </group>
+    <group android:id="@+id/group27">
+
+    <item
+            android:id="@+id/draggable"
+            android:icon="@drawable/ic_live_help_black_24dp"
+            android:title="Draggable"
+            />
+    </group>
+    <group android:id="@+id/group28">
+
+    <item
+            android:id="@+id/card"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Crad View"
+            />
+    </group>
+
+    <group android:id="@+id/group29">
+
+        <item
+            android:id="@+id/trial"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Trial"
+            />
+    </group>
+    <group android:id="@+id/group30">
+
+        <item
+            android:id="@+id/fingerprint"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="FingerPrint"
+            />
+    </group>
+    <group android:id="@+id/group31">
+
+        <item
+            android:id="@+id/face"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Face Detection"
+            />
+    </group>
+</menu>
